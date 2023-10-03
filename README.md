@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-### 💻 I’m Junior Frontend developer
+### 💻 I’m Frontend developer
 
 ### 📭 Contacts
 Gmail: artyommois024@gmail.com <br>
